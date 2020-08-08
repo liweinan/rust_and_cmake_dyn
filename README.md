@@ -10,6 +10,8 @@ $ cargo build -vv
 $ cargo run
 ```
 
+## BUILD AND RUN PROCESS
+
 ```bash
 $ cargo build -vv                                                                                                                                                                                           10:01:13
    Compiling cc v1.0.58
@@ -66,6 +68,6 @@ Hello, world from C! Value passed: 3.141590
 $                                                                                                                                                                                                           10:01:45
 ```
 
-## Relative Project
+## RELATIVE PROJECT
 
 * [Sample of building C based STATIC library with CMAKE and Rust main code to use the library.](https://github.com/liweinan/rust_and_cmake)
